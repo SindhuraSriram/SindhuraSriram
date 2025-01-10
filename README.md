@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sindhura Sriram</h1>
 <h3 align="center">Empowering innovation through data and technology | MLOps | Machine Learning Engineer | Deep Learning Enthusiast | Open Source Contributor</h3>
 
-- 🌱 I’m currently exploring ** Generative AI, Model Deployment, and Scalable Machine Learning solutions.**
+- 🌱 I’m currently exploring **Generative AI, Model Deployment, and Scalable Machine Learning solutions.**
 
 - 👨‍💻 All of my projects are available at [https://www.sindhura-sriram.com](https://www.sindhura-sriram.com)
 
