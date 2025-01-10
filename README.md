@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sindhura Sriram</h1>
-<h3 align="center">I am a software engineer with a strong passion for machine learning, MLOps, and cutting-edge technologies. Dedicated to solving complex problems, I thrive on exploring innovative solutions across diverse domains. Always eager to learn, grow, and embrace new challenges, I strive to bridge the gap between theoretical concepts and impactful real-world applications.</h3>
+<h4 align="center">I am a software engineer with a strong passion for machine learning, MLOps, and cutting-edge technologies. Dedicated to solving complex problems, I thrive on exploring innovative solutions across diverse domains. Always eager to learn, grow, and embrace new challenges, I strive to bridge the gap between theoretical concepts and impactful real-world applications.</h4>
 
 - 🌱 I’m currently exploring **Generative AI, Model Deployment, Cloud and Scalable Machine Learning solutions.**
 
