@@ -51,16 +51,33 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+<!-- Featured Projects -->
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SindhuraSriram&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SindhuraSriram&theme=radical" alt="GitHub Streak" />
-</p>
+### Llama2 Medical Chatbot
+🏥 A medical chatbot using Llama2, Langchain, and RAG for accurate healthcare information
+<br>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]() 
+[![Llama2](https://img.shields.io/badge/Llama2-FF6F00?style=flat-square&logo=meta&logoColor=white)]()
+[![Langchain](https://img.shields.io/badge/Langchain-121212?style=flat-square&logo=chainlink&logoColor=white)]()
+
+### Arctic RTS: Ice Depletion Analysis
+🌨️ Advanced pattern recognition for Arctic ice depletion using Mask R-CNN
+<br>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)]()
+[![GIS](https://img.shields.io/badge/GIS-32A852?style=flat-square&logo=qgis&logoColor=white)]()
+
+### Contextual AI Assistant
+🤖 Personal assistant with voice recognition and contextual understanding
+<br>
+[![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)]()
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)]()
+
+</div>
 
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
