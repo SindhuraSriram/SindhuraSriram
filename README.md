@@ -13,12 +13,12 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing MS in Computer Science at **University of Florida**
+- 🎓 Pursued MS in Computer Science at **University of Florida**
 - 💼 Software Engineer with 3+ years of experience in **Data Modeling & Machine Learning**
 - 🌱 Currently learning **LLMs, MLOps, and Cloud Architecture**
 - 👯 Looking to collaborate on **Machine Learning and Full Stack Projects**
 - 💬 Ask me about **Python, Machine Learning, Data Engineering, and Cloud Computing**
-- 📫 Reach me at: **sindhura.sriram@ufl.edu**
+- 📫 Reach me at: **sindhura.sriram@ufl.edu (or) sriramsindhura@gmail.com**
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
