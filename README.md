@@ -18,7 +18,7 @@
 - 🌱 Currently learning **LLMs, MLOps, and Cloud Architecture**
 - 👯 Looking to collaborate on **Machine Learning and Full Stack Projects**
 - 💬 Ask me about **Python, Machine Learning, Data Engineering, and Cloud Computing**
-- 📫 Reach me at: **sindhura.sriram@ufl.edu (or) sindhurasriram123@gmail.com**
+- 📫 Reach me at: **sindhurasriram123@gmail.com**
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
